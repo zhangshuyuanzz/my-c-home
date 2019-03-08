@@ -1,0 +1,6 @@
+export SDK_ENV="/home/neusoft/zhangyq/qs/kukuku"
+export C_INCLUDE_PATH="$SDK_ENV:$C_INCLUDE_PATH"
+export LIBRARY_PATH="$SDK_ENV:$LIBRARY_PATH"
+export LD_LIBRARY_PATH="$SDK_ENV:$LD_LIBRARY_PATH"
+export PKG_CONFIG_PATH="/home/neusoft/zhangyq/qs/kukuku/libxml2/lib/pkgconfig:$PKG_CONFIG_PATH"
+

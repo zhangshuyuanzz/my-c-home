@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ 
+<bookstore1 name="xinhuashudian">
+ 
+<book content="技术">
+<title lang="eng">Harry Potter</title>
+<price>29.99</price>
+</book>
+ 
+<book content="文艺">
+<title lang="eng">Learning XML</title>
+<price>39.95</price>
+</book>
+ <book content="烹饪">
+<title lang="chn">煎饼做法</title>
+<price>100.95</price>
+</book>
+ 
+</bookstore1>
